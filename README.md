@@ -58,12 +58,19 @@ Copy VALUE only
 🗝️✅ Add Tokens (Only 2 Lines)✅
 
 👉Open Your File Manager
+
 👉Find 'script' Folder and Open it
+
 👉Open 'MI_PERMISSION' Folder
+
 👉edit 'token.txt' File
+
 👉Text replacement 
+
   ⭐(Firefox token1) replace with (Firefox token)
+  
   ⭐(Firefox token1) replace with (Firefox-clone token)
+  
 👉Save the file
 
 
@@ -76,4 +83,5 @@ Copy VALUE only
 **📌 Maintained by**
 
 👉 Credit : flowTech-x
+
 👉 Modifier : **MD FAHIM** (TG:@error444_fahim)
