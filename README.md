@@ -28,9 +28,11 @@ termux-setup-storage
 curl -sLo installer.sh https://raw.githubusercontent.com/makfmr2-hue/MI_PERMISSION/main/installer.sh && bash installer.sh
 ```
 🔐 Getting Xiaomi Token (Phone Only)
+
 Use Firefox + Cookie Editor
 
 Install Firefox Browser
+
 Create a App Clone of Firefox Browser
 
 ✅Login Mi Account in Both Main Firefox and Clone One✅
@@ -41,7 +43,8 @@ Create a App Clone of Firefox Browser
 
 
 ✅Install Cookie-Editor addon✅
-👉 https://addons.mozilla.org/firefox/addon/cookie-editor/
+
+👉https://addons.mozilla.org/firefox/addon/cookie-editor/
 
 ✅Open Cookie-Editor✅
 
