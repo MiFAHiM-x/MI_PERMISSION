@@ -25,7 +25,7 @@ termux-setup-storage
 
 ## 2️⃣ 🔥 ONE COMMAND INSTALLER🔥
 ```bash
-curl -sLo installer.sh https://raw.githubusercontent.com/makfmr2-hue/MI_PERMISSION/main/installer.sh && bash installer.sh
+curl -sLo installer.sh https://raw.githubusercontent.com/MiFAHiM-x/MI_PERMISSION/main/installer.sh && bash installer.sh
 ```
 🔐 Getting Xiaomi Token (Phone Only)
 
