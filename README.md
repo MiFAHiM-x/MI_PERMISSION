@@ -1,6 +1,6 @@
 # 🔓 MI PERMISSION Tool (Android / Termux)
 
-🥸MODIFIER : TG - [@error444_fahim]
+**🥸MODIFIER** : TG - [@error444_fahim]
 
 ---
 
@@ -27,7 +27,7 @@ termux-setup-storage
 ```bash
 curl -sLo installer.sh https://raw.githubusercontent.com/MiFAHiM-x/MI_PERMISSION/main/installer.sh && bash installer.sh
 ```
-🔐 Getting Xiaomi Token (Phone Only)
+**🔐 Getting Xiaomi Token (Phone Only)**
 
 Use Firefox + Cookie Editor
 
@@ -35,18 +35,18 @@ Install Firefox Browser
 
 Create a App Clone of Firefox Browser
 
-✅Login Mi Account in Both Main Firefox and Clone One✅
+**✅Login Mi Account in Both Main Firefox and Clone One✅**
 
 👉India Mi Community Link - https://new-ams.c.mi.com/global/forum-type/Redmi%20Phone
 
 👉Global Mi Community Link - https://c.mi.com/global/
 
 
-✅Install Cookie-Editor addon✅
+**✅Install Cookie-Editor addon✅**
 
 👉https://addons.mozilla.org/firefox/addon/cookie-editor/
 
-✅Open Cookie-Editor✅
+**✅Open Cookie-Editor✅**
 
 Search for:
 
@@ -55,7 +55,7 @@ new_bbs_serviceToken
 
 Copy VALUE only
 
-🗝️✅ Add Tokens (Only 2 Lines)✅
+**🗝️✅ Add Tokens (Only 2 Lines)✅**
 
 👉Open Your File Manager
 
@@ -73,8 +73,10 @@ Copy VALUE only
   
 👉Save the file
 
+**🔥NOW GO TO TERMUX and TYPE (apply) and RUN🔥**
 
-❗ Common Errors & Fixes
+
+**❗ Common Errors & Fixes**
 
 ❌ Cookie expired
 
