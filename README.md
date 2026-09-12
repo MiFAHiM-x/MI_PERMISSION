@@ -1,6 +1,6 @@
 # 🔓 MI PERMISSION Tool (Android / Termux)
 
-#🥸MODIFIER : TG - [@error444_fahim]
+🥸MODIFIER : TG - [@error444_fahim]
 
 ---
 
@@ -34,6 +34,7 @@ Install Firefox Browser
 Create a App Clone of Firefox Browser
 
 ✅Login Mi Account in Both Main Firefox and Clone One✅
+
 👉India Mi Community Link - https://new-ams.c.mi.com/global/forum-type/Redmi%20Phone
 
 👉Global Mi Community Link - https://c.mi.com/global/
@@ -51,7 +52,7 @@ new_bbs_serviceToken
 
 Copy VALUE only
 
-🗝️✅ #Add Tokens (Only 2 Lines)✅
+🗝️✅ Add Tokens (Only 2 Lines)✅
 
 👉Open Your File Manager
 👉Find 'script' Folder and Open it
@@ -69,7 +70,7 @@ Copy VALUE only
 
 ✅ Re-login on mi.com → copy token again
 
-#📌 Maintained by
+**📌 Maintained by**
 
 👉 Credit : flowTech-x
-👉 Modifier : MD FAHIM (TG:@error444_fahim)
+👉 Modifier : **MD FAHIM** (TG:@error444_fahim)
