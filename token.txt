@@ -1,0 +1,2 @@
+Firefox token1
+Firefox-clone token2
