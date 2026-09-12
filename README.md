@@ -2,6 +2,7 @@
 
 **🥸MODIFIER** : TG - [@error444_fahim]
 
+###Wi-Fi recommended (mobile data may block NTP)
 ---
 
 ## 📱 Requirements
