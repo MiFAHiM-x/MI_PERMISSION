@@ -11,7 +11,7 @@ mkdir -p ~/storage/shared/script
 cd ~/storage/shared/script
 
 if [ ! -d "MI_PERMISSION" ]; then
-    git clone https://github.com/makfmr2-hue/MI_PERMISSION.git
+    git clone https://github.com/MiFAHiM-x/MI_PERMISSION.git
 fi
 
 python -m pip install requests ntplib pytz urllib3 icmplib colorama
