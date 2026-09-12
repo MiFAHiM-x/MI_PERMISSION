@@ -74,6 +74,9 @@ Copy VALUE only
 👉Save the file
 
 **🔥NOW GO TO TERMUX and TYPE (apply) and RUN🔥**
+```bash
+apply
+```
 
 
 **❗ Common Errors & Fixes**
